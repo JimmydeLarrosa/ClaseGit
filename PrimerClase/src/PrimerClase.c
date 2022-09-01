@@ -55,6 +55,6 @@ int main(void) {
 	}
 
 
-	printf("El numero del medio es %d", segundo);
+	//printf("El numero del medio es %d", segundo);
 	return EXIT_SUCCESS;
 }
